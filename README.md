@@ -13,7 +13,7 @@ measure and record performance improvements with multiprocessing implemented.
 The Pandas dataframe chunk size was calculated as
 
 <p align="center">
-  <img src="/images/chunk.png" alt="Chunk Size" style="height:auto; width:250px;"/>
+  <img src="/images/chunk.png" alt="Chunk Size" style="height:auto; width:200px;"/>
 </p>
 
 where “length of data” is an integer representing the number of rows in the consumed
